@@ -1,15 +1,35 @@
+### About Me
+----
+* 실용적 프로젝트 중심 풀스택 개발자
+* 공간 데이터 처리와 시각화
+* 교육과 협업을 통해 새로운 기술을 실험하고 적용하는 실행 중심
+* 이가 없으면 잇몸으로!
 
-<h1 align="center">Hi I'm Noel </h1> 
+## Tech
+---
+###### FRONT
+* Typescript
+* React,Vite
 
-<h3 align="center" style="font-weight:bold;" >Welcome to my page!</h3>
-I'm working Dedicated to being BackEnd-Developer.i like to collaborate with others. i'm interested in Spring Web Projects and I'm so passionate about learning TDD. i always welcome contact to give me advice. I feel great when I make the system stable and efficient.
+###### BACK
+* JAVA
+* Spring
+* Docker
+* RabbitMq
+* Mybatis, JPA
 
-<br>
-<br>
-<br>
+##### SQL
+* TiberoSql
+* Postgresql
+* Mysql
 
-<a href="https://github.com/SoheyonP/github-stats-transparent" align ="left">
+###### MAP
+* Cesium (React)
+* Maplibre/Mapbox
+* PostGis
 
-
-
-
+### Career 
+---
+* ibleaders(2022.07 ~  )
+* infoseed(2020.11 -2022.02)
+* Daelim University
