@@ -30,6 +30,6 @@
 
 ### Career 
 ---
-* ibleaders(2022.07 ~  )
+* ibleaders(2022.07 ~ 2026.01 )
 * infoseed(2020.11 -2022.02)
 * Daelim University
